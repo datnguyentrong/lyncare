@@ -1,0 +1,11 @@
+.pres-video img{
+  margin: auto;
+  display: block;
+  max-width: 100%
+}
+
+.pres-video{
+  width: 100%!important;
+  height: 100vh!important;
+  position: relative!important;
+}
